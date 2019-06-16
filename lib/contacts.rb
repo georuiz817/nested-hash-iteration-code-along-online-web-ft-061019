@@ -1,6 +1,7 @@
 require 'pry'
 
-  # This is the array we will be passing into the remove_strawberry method
+
+def remove_strawberry(contacts)
   # contacts = {
   #   "Jon Snow" => {
   #     name: "Jon",
@@ -13,7 +14,4 @@ require 'pry'
   #     favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
   #   }
   # }
-  
-def remove_strawberry(contacts)
-
 end
